@@ -330,6 +330,15 @@
 		"variables": {
 			"Time": {
 				"type": "String"
+			},
+			"DimTables": {
+				"type": "Array",
+				"defaultValue": [
+					"DimArtist",
+					"DimUser",
+					"DimTrack",
+					"DimDate"
+				]
 			}
 		},
 		"annotations": []
