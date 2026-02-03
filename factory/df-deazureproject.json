@@ -1,0 +1,9 @@
+{
+	"name": "df-deazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b64b6e69-f6dd-4264-b32d-65bd66ad02ea",
+		"tenantId": "5858462f-1ebb-44ec-9587-0ffd509a126d"
+	}
+}
